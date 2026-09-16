@@ -1,3 +1,6 @@
+/**
+ * 代码由 Cursor Grok 4.6 High Fast 生成
+ */
 #include <iostream>
 #include <vector>
 #include <algorithm>
